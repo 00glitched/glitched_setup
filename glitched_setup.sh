@@ -316,7 +316,7 @@ ver_programas_instalados() {
 # Menu
 mostrar_menu_principal() {
     while true; do
-        opcion=$(dialog --clear --title "Categorías" --colors \
+        opcion=$(dialog --clear --title "Setup" --colors \
             --menu "Seleccione una opción:" 20 60 9 \
             1 "📐Matemáticas" \
             2 "⚙️ 2D/3D CAD" \
