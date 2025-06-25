@@ -4,3 +4,6 @@
 
 ## Which packages?
 - Packages for engineering students with potato computers, specially "mechatronics" and related.
+
+## Screenshot
+![](screenshot.png)
